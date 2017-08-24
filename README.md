@@ -42,7 +42,7 @@ which proxied it to php-fpm and handled all the transcoding.
 
 ## LICENSE
 
-See [./LICENSE].
+See [LICENSE](./LICENSE).
 
 ## Acknowledgements
 
